@@ -1,4 +1,4 @@
-# Node_Module
+# Node_Modules
 ## Thanks To
 * [`DikaArdnt/Hisoka-Morou]`](https://github.com/DikaArdnt)
 
